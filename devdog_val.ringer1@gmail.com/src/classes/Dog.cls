@@ -14,6 +14,12 @@ public class Dog {
 		status = 'Playing';
 	}
 	
+		// Declare a method to make the dog play
+	public void yell(){
+		// Set the status to 'Playing'
+		status = 'Yelling';
+	}
+	
 	// Declare a method to make the dog play
 	// VR Added this code, and then this comment
 	public void jump(){
