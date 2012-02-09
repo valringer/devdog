@@ -15,9 +15,9 @@ public class Dog {
 	}
 	
 		// Declare a method to make the dog play
-	public void yell(){
-		// Set the status to 'Playing'
-		status = 'Yelling';
+	public void smelling(){
+		// Set the status to 'Smelling'
+		status = 'Smelling';
 	}
 	
 	// Declare a method to make the dog play
