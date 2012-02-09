@@ -14,6 +14,13 @@ public class Dog {
 		status = 'Playing';
 	}
 	
+	// Declare a method to make the dog play
+	// VR Added this code, and then this comment
+	public void jump(){
+		// Set the status to 'Playing'
+		status = 'Jumping';
+	}
+	
 	// Declare a method to make the dog wag its tail
 	public void wagTail(){
 		// Set the status to 'Wagging Tail'
